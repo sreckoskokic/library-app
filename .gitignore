@@ -1,0 +1,41 @@
+Build results (Compiled files)
+[Bb]in/
+[Oo]bj/
+
+Visual Studio files (User-specific and cache)
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.ide
+
+Visual Studio Code (If anyone on the team uses VS Code)
+.vscode/
+
+NuGet Packages (Restore them, do not keep in repo)
+.nupkg
+**/packages/
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+Test results
+TestResults/
+.tr
+
+Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+Sensitive configuration (Optional, but recommended)
+If you use appsettings.json for secrets:
+appsettings.Development.json
+appsettings.Local.json
