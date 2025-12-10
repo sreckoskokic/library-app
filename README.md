@@ -15,7 +15,7 @@ This application allows users to easily browse the library catalog and reserve b
 
 <img width="824" height="389" alt="image" src="https://github.com/user-attachments/assets/c529e110-1aed-46f8-a490-a050122ad9aa" />
 
-## Data base
+## Database
 
 <img width="754" height="358" alt="image" src="https://github.com/user-attachments/assets/8bc985cf-2b2c-45fc-8169-9a226589874f" />
 
